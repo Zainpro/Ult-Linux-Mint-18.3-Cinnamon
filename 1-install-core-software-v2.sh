@@ -14,7 +14,7 @@ sudo apt-get install -y catfish clementine curl dconf-cli dconf-editor dropbox e
 sudo apt-get install -y glances gparted grsync hardinfo inkscape meld
 sudo apt-get install -y openshot pinta plank ppa-purge radiotray screenruler screenfetch scrot shutter slurm synapse
 sudo apt-get install -y thunar vlc vnstat   
-
+sudo apt-get install -y openvpn  network-manager-openvpn
 
 #operating specific software
 
